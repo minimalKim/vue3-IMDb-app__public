@@ -1,0 +1,12 @@
+@import "../../node_modules/bootstrap/scss/_functions";
+
+$body-bg: shade-color(#6610f2, 80%);
+$body-color: #e9ecef;
+$primary: #ffc107;
+
+@import "../../node_modules/bootstrap/scss/_variables";
+@import "../../node_modules/bootstrap/scss/_mixins";
+@import "../../node_modules/bootstrap/scss/_root";
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
