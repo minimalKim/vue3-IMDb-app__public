@@ -3,7 +3,7 @@ Vue.js와 영화 검색 API를 활용해 영화 검색 SPA을 구현하였습니
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d8e0cd02-3469-47bf-ad44-cfeb4dc04f88/deploy-status)](https://app.netlify.com/sites/cocky-lumiere-227d70/deploys)
-[🎥배포 링크](https://cocky-lumiere-227d70.netlify.app/)
+[🎥배포 링크](https://imdb-vue.netlify.app)
 
 
 ## 👩‍💻 요구 사항과 구현 내용 <!-- 기능을 Commit 별로 잘개 쪼개고, Commit 별로 설명해주세요 -->
